@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Back to previous page](https://ornaka.github.io)
+[Back to previous page](https://ornaka.github.io/index.md)
 
 There should be whitespace between paragraphs.
 
