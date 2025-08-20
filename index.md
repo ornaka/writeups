@@ -98,7 +98,9 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Picture 1](https://github.com/ornaka/writeups/blob/main/pic1.png)
+
+![Picture 2](https://github.com/ornaka/writeups/blob/main/pic2.png)
 
 
 ### Definition lists can be used with HTML syntax.
