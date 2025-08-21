@@ -51,7 +51,7 @@ What command was executed to configure the suspicious binary to run with elevate
 
 Saw this one while looking at CommandLine-field while verifying my answer to the first question. The /RU with schtasks.exe means it’ll run as SYSTEM-user when the task is executed. 
 
-[!Picture of the CommandLine-field](/images/pic4.png)
+![Picture of the CommandLine-field](/images/pic4.png)
 
 ## Fifth question:
 
@@ -65,7 +65,7 @@ The suspicious binary connected to a remote server. What address did it connect 
 
 Because the binary is connecting to a remote server and question wants a specific address, I used a query containing name of the executable and TaskCategory="Dns query (rule: DnsQuery)". The answer was found within the QueryName-field in all of the five events the query resulted.
 
-[One result of the query](/images/pic5.png)
+![One result of the query](/images/pic5.png)
 
 ## Seventh question:
 
@@ -75,7 +75,7 @@ Since I already knew the malicious binary was downloaded to /Temp and that the f
 
 There were only two files directly in \Temp, other being the earlier malicious binary and second one being the script we’re looking for.
 
-[Results](/images/pic6.png)
+![Results](/images/pic6.png)
 
 ## Eight question:
 
@@ -83,7 +83,7 @@ The malicious script was flagged as malicious. What do you think was the actual 
 
 Result from earlier query showed also the file hashes of the script. Searching any of the hashes at VirusTotal revealed the true identity of the script.
 
-[VirusTotal results](/images/pic7.png)
+![VirusTotal results](/images/pic7.png)
 
 ## Ninth question:
 
@@ -91,7 +91,7 @@ A ransomware note was saved to disk, which can serve as an IOC. What is the full
 
 I used the actual name of the script found from VirusTotal as a query. Seven events were present, one of them being a .txt-file and correct answer.
 
-[Field containing the answer](/images/pic8.png)
+![Field containing the answer](/images/pic8.png)
 
 ## Tenth question:
 
