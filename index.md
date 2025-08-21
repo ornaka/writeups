@@ -94,7 +94,7 @@ end
 
 ### Small image
 
-![Test if smaller pictures work properly as large imaged don't](https://github.com/ornaka/writeups/blob/main/pic3.png))
+![Test if smaller pictures work properly as large imaged don't](https://github.com/ornaka/writeups/blob/main/pic3.png)
 
 ### Large image
 
