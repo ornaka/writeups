@@ -8,7 +8,7 @@ This is my writeup about TryHackMe's PSEclipse-room, which is centered around Sp
 
 Link to the room: 
 
-(https://tryhackme.com/room/posheclipse)
+[https://tryhackme.com/room/posheclipse](https://tryhackme.com/room/posheclipse)
 
 
 
