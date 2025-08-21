@@ -100,7 +100,7 @@ end
 
 ![Picture 1](/images/pic1.png)
 
-![Picture 2](https://github.com/ornaka/writeups/blob/main/pic2.png)
+![Picture 2]([https://github.com/ornaka/writeups/blob/main/pic2.png](https://www.google.com/search?sca_esv=892b6d78acac2e62&udm=2&fbs=AIIjpHyjnW1cH5g3hIP4-IoINo8byIL2kI_g8oY2tf6yrxZondZewQgjT8WwD4avedUM1TMIuv5-BjuDFOubawmw3Jt-UdkuJ9H9OiDVFeFa2DgHRMP7IRo1YTy97wmwx3wLqDvy03NPweMytremW4ioL1EzSSVzsuIWjY0GINCFII4O3WrE3gWVfhx3CGDv47OxthcBF44EKi7wSY0ImAKDXL2qb4qR1A&q=supermass+afterzone&sa=X&sqi=2&ved=2ahUKEwiHqYa-2JuPAxWRHxAIHRPUAH4QtKgLegQIDBAB&biw=2560&bih=1279#vhid=SPHbntUczdiKqM&vssid=mosaic)
 
 
 ### Definition lists can be used with HTML syntax.
