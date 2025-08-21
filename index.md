@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Picture 1](https://github.com/ornaka/writeups/blob/main/pic1.png)
+![Picture 1](/images/pic1.png)
 
 ![Picture 2](https://github.com/ornaka/writeups/blob/main/pic2.png)
 
